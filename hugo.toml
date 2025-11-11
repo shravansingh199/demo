@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'lyrify--'
+theme = 'PaperMod' 
+
+[params]
+  ShowPostNavLinks = true
+  mainSections= ["lyrics"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+album = "albums"
+artist = 'artists'
